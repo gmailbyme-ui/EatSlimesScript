@@ -1,5 +1,5 @@
 while true do
-    local args = {5}
+    local args = {100}
 
     game:GetService("ReplicatedStorage")
         :WaitForChild("Honeypot")
